@@ -4,7 +4,7 @@
 
 # files
 EXECUTABLE  = words
-SOURCES  = words.c 
+SOURCES  = pwords.c 
 
 OBJECTS  = $(SOURCES:.c=.o)
 
